@@ -2,6 +2,9 @@
 
 f-58 takımı projesi
 
+#Jüri No:
+bu projede f-58 takımı olarak konsept değişikliğine gidilmiştir ve böyle bir uygulama çıkartılmasına karar verilmiştir.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
