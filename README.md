@@ -2,8 +2,9 @@
 
 f-58 takımı projesi
 
-#Jüri No:
-bu projede f-58 takımı olarak konsept değişikliğine gidilmiştir ve böyle bir uygulama çıkartılmasına karar verilmiştir.
+# Jüriye Not:
+
+ Bu projede f-58 takımı olarak konsept değişikliğine gidilmiştir ve böyle bir uygulama çıkartılmasına karar verilmiştir.
 
 ## Getting Started
 
