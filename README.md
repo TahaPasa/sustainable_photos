@@ -2,9 +2,11 @@
 
 f-58 takımı projesi
 
-# Jüriye Not:
+## Jüriye Not:
 
  Bu projede f-58 takımı olarak konsept değişikliğine gidilmiştir ve böyle bir uygulama çıkartılmasına karar verilmiştir.
+
+ Ayrıca daha öncesinde kullandığımız github reposuna sprintlerimizi ekledik ama kodlarımızı buradaki repoya ekledik. isterseniz bu linkten sprint içeriklerimize de ulaşabilirsiniz: https://github.com/captainofDogu/Flutter-proje1
 
 ## Getting Started
 
